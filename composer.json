@@ -1,6 +1,6 @@
 {
   "name": "dazza-dev/laravel-languages",
-  "description": "",
+  "description": "Laravel Languages provides a ready-to-use list of languages for your Laravel application.",
   "keywords": [
     "languages"
   ],
